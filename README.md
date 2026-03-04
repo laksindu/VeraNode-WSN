@@ -82,7 +82,7 @@ In this example, Relay 1 (GPIO 15) will trigger HIGH if Zone 1 temperature excee
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/esp32-iot-zones.git
+git clone https://github.com/laksindu/VeraNode-WSN.git
 ```
 
 2. **Configure Transmitter:**
