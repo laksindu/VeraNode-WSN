@@ -38,7 +38,7 @@ The "Brain" of the system that bridges the local sensor network to the internet.
 | **Output** | 4-Channel Relay Module |
 | **Feedback** | Reset Button for clearing NVM credentials |
 
-* If you are using the **"ESP8266"** as a transmitter, replace the standard WiFi library with the **"ESP8266WiFi"** library. Note that you must still use an **"ESP32"** as the gateway
+* If you are using the **ESP8266** as a transmitter, replace the standard WiFi library with the **"ESP8266WiFi"** library. Note that you must still use an **ESP32** as the gateway
 
 
 ### Pin Mapping (Receiver)
