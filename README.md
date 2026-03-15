@@ -86,6 +86,9 @@ In this example, Relay 1 (GPIO 15) will trigger HIGH if Zone 1 temperature excee
 1. **Clone the Repository:**
 ```bash
 git clone https://github.com/laksindu/VeraNode-WSN.git
+
+mobile app:
+git clone https://github.com/laksindu/VeraNode.git
 ```
 
 2. **Configure Transmitter:**
