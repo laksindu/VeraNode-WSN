@@ -108,9 +108,3 @@ git clone https://github.com/laksindu/VeraNode.git
 
 
 ---
-
-## Future Roadmap
-
-* [ ] Add support for deep sleep on Transmitter nodes to extend battery life.
-* [ ] Create a React Native mobile dashboard for visual control.
-* [ ] Add Gas sensor to monitor Gas level.
