@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "VeraNode",
+    "slug": "VeraNode",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon2.png",
+    "userInterfaceStyle": "light",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "splash": {
+      "image": "./assets/icon2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/icon2.png",
+        "backgroundImage": "./assets/icon2.png",
+        "monochromeImage": "./assets/icon2.png"
+      },
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "NEARBY_WIFI_DEVICES"
+      ],
+      "package": "com.yourname.VeraNode"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "usesCleartextTraffic": true
+          }
+        }
+      ],
+      "expo-updates"
+    ],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
