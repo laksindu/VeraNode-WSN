@@ -125,6 +125,7 @@ The device listens on `iot/{userID}/to_device` for JSON payloads to update relay
   ```
 
 2. Firmware :
-    ```bash
-        git clone https://github.com/laksindu/VeraNode-Firmware.git
-    ```
+  ```bash
+   git clone https://github.com/laksindu/VeraNode-Firmware.git
+
+  ```
